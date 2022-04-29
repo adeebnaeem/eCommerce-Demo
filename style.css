@@ -1,0 +1,192 @@
+.navbar-nav {
+    display: flex !important;
+    justify-content: center;
+}
+
+.logo-1 h2 {
+    font-size: 40px;
+}
+
+.info-1 ul li a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.nav-1 ul li {
+    font-size: 20px;
+    margin: 20px 50px;
+    color: black;
+}
+
+
+/* .caroule-1 button {
+    color: black !important;
+    background-color: black;
+} */
+
+.carousel-item .carousel-img-11 img {
+    width: 73% !important;
+}
+
+.carousel-item .carousel-img-12 img {
+    width: 40% !important;
+}
+
+.carousel-indicators .btn-1 {
+    border-radius: 55% !important;
+    width: 12px !important;
+    height: 12px!important;
+    color: black;
+    background-color: rgb(5, 5, 5) !important;
+}
+
+.card-1 {
+    width: 25%;
+}
+
+.card-1 img {
+    width: 100% !important;
+}
+
+.shirts-1 {
+    color: rgb(63, 61, 61);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+
+.carousel-control-prev {
+    position: absolute;
+    left: -40px !important;
+}
+
+.icon-chevron {
+    font-size: 50px;
+}
+
+.icon-left {
+    font-size: 28px;
+}
+
+
+/* .carousel-indicators {
+    position: absolute !important;
+    top: 95% !important;
+} */
+
+.footer-11 {
+    background-color: rgb(24, 37, 49);
+}
+
+.footer-11 p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+.carousel-22 img {
+    width: 30% !important;
+}
+
+.carousel-22 {
+    margin: 60px;
+}
+
+.accordion-item {
+    border: none !important;
+}
+
+.tempo-3 {
+    margin-top: 10% !important;
+}
+
+.banner-1 {
+    opacity: 5;
+    background-color: #f0f0f0;
+    padding-bottom: 10%;
+}
+
+.brands-1 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.category-1 img {
+    border-radius: 50%;
+    border: 1px solid rgb(228, 225, 225);
+    height: 80%;
+    width: 80%;
+}
+
+.feature-1 {
+    background-color: #f0f0f0;
+}
+
+.logo-11 ul li {
+    margin: 0px 30px;
+}
+
+.logo-11 ul li a {
+    font-size: 17px;
+}
+
+.icon_a {
+    width: 100% !important;
+    padding-left: 60px !important;
+}
+
+.icon_a a {
+    margin: 0 5px;
+}
+
+.logo-44 {
+    font-size: 52px !important;
+}
+
+.contact {
+    background-color: rgb(166, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    background-color: rgb(12, 34, 53);
+}
+
+.map {
+    width: 100% !important;
+    height: 50vh !important;
+}
+
+.services-icon-wap:hover {
+    background-color: rgb(47, 160, 66);
+    color: white !important;
+}
+
+.services-icon-wap:hover .icon-1 {
+    color: white !important;
+}
+
+.over-lay {
+    background: rgba(0, 0, 0, 0.26);
+    bottom: 27.5% !important;
+}
+
+.over-lay-1 {
+    background: rgba(0, 0, 0, 0.26);
+    bottom: 30.5% !important;
+}
+
+.ir:hover .irf {
+    display: block !important;
+    transition: all ease 1s;
+}
+
+.icon-55 {
+    font-size: 25px;
+    border-radius: 6px;
+    width: 60px !important;
+    border: none !important;
+}
+
+@media(max-width:994px) {
+    .nav-icons-11 {
+        display: none !important;
+    }
+}
